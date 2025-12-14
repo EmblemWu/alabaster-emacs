@@ -110,4 +110,4 @@
 
 (provide-theme 'alabaster)
 
-;;; espresso-theme.el ends here
+;;; alabaster-theme.el ends here
